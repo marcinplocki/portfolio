@@ -411,7 +411,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .skills-bars{
     position: relative;
-    margin-top: 20px;
+    margin-top: 100px;
     height:350px;
 	opacity:0;
 	transition:opacity .3s ease-out;
@@ -419,7 +419,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .skills-item{
     position: absolute;
-    width:15%;
+    width:12%;
 	height:0;
     bottom:0;
     border-right: 3px solid #fff;
@@ -431,27 +431,27 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     background: #b18f6a;
 
 }.skill1{
-    left:20%;
+    left:18%;
     background: #b18f6a;
 }
 
 .skill2{
-    left:40%;
+    left:36%;
     background: #b18f6a;
 }
 
 .skill3{
-    left:60%;
+    left:54%;
     background: #b18f6a;
 }
 
 .skill4{
-    left:80%;
+    left:72%;
     background: #b18f6a;
 }
 
 .skill5{
-    left:100%;
+    left:90%;
     background: #b18f6a;
 }
 
@@ -1236,7 +1236,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 @media (max-width:991px){
     
     .big-text{
-        font-size:48px;
+        font-size:38px;
         line-height:52px;
         letter-spacing:0.01em;
         word-spacing: 0.15em;
@@ -1370,22 +1370,19 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     }
     
     .polaroid {
-        border:12px solid #fff;
+        border:6px solid #fff;
         width:90%;
         max-width: 500px;
         margin:0 auto 35px;
-        box-shadow: 3px 5px 8px rgba(0,0,0,0.5);
-        -webkit-transform: rotate(-5deg);
-        transform: rotate(-5deg);
     }
     
     .percent{
-        top:-45px;
-        font-size: 28px;
+        top:-35px;
+        font-size: 18px;
     }
     
     .skills-item p{
-        font-size: 14px;
+        font-size: 11px;
     }
     
     #filter-works ul li a{
