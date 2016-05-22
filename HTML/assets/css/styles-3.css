@@ -72,7 +72,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .bg-color3{
     color:#fff;
-    background:#334959;
+    background:#1B4B59;
 }
 
 .border-bottom-color2{
@@ -103,11 +103,11 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .color3 .service-icon,
 .color3.service-item ul li:nth-child(2):before{
-    background:#334959;
+    background:#1B4B59;
 }
 
 .color3 .service-icon:after{
-    border:3px solid #334959;
+    border:3px solid #1B4B59;
 }
 
 /*------------------
@@ -344,7 +344,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     border-radius:50%;
     font-size:62px;
     line-height:150px;
-    background:#334959;
+    background:#1B4B59;
     color:#fff;
     -webkit-transition:all 0.2s ease-out;
     transition:all 0.2s ease-out;
@@ -359,7 +359,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     height:174px;
     top:-12px;
     left:-12px;
-    border:3px solid #334959;
+    border:3px solid #1B4B59;
     border-radius:50%;
     -webkit-transition:all 0.2s ease-out;
     transition:all 0.2s ease-out;
@@ -442,7 +442,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .skill3{
     left:50%;
-    background: #334959;
+    background: #1B4B59;
 }
 
 .skill4{
@@ -792,7 +792,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 }
 
 #twitter a {
-    color: #334959;
+    color: #1B4B59;
     text-decoration: none;
     transition: color .2s ease-out;
 }
